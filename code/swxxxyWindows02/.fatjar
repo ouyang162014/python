@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri Dec 18 10:55:31 CST 2015
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=false
+onejar.checkbox=false
+jarname=swxxxy02_fat.jar
+manifest.mergeall=false
+manifest.mainclass=cqupt.swxxxy.utils.FileMonitor
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
